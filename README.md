@@ -2,4 +2,4 @@
 My first GitHub repo!
 Hello Odin!
 My name is Alivia.
-Yolos
+Yolo
